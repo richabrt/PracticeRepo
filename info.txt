@@ -1,0 +1,6 @@
+git init
+git add . //all files --coding to staging
+git add filename  --one file taken from working to staging
+git commit -m "your commit"   --staging to local repository
+
+from commit to your repository --sign in to githubgit branch -M main
